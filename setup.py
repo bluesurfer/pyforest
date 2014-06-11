@@ -8,7 +8,6 @@ setup(
     author=['Andrea Casini'],
     email='acasini@unive.dsi.it',
     packages=['pyforest'],
-    scripts=['bin/trainforest.py', 'bin/detectfaces.py'],
     license='LICENSE',
     description='Random Forests for face detection',
     install_requires=['numpy',
