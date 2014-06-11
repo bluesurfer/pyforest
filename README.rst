@@ -1,4 +1,4 @@
-pyForest
+pyforest
 ========
 A pure Python implementation of Random Forests specifically developed for face detection purposes.
 
