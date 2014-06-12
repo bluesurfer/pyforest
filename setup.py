@@ -8,7 +8,7 @@ setup(
     author=['Andrea Casini'],
     email='acasini@unive.dsi.it',
     packages=['pyforest'],
-    license='LICENSE',
+    license='MIT',
     description='Random Forests for face detection',
     install_requires=['numpy',
                       'scipy',
